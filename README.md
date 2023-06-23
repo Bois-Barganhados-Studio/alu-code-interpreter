@@ -1,9 +1,9 @@
 # alu-code-interpreter
 Sistema de interpretação de arquivos .HEX para .ULA para serem executados por um arduino programado com um sistema de ULA com operaçõs básicas. Intepreter system to decode .HEX files to .ULA for running in an arduino with ALU basic operations. 
 # Autores
-- [@Leon Junio Martins Ferreira](https://www.github.com/leon-junio)
+- [@Leon Junio Martins](https://www.github.com/leon-junio)
 - [@Pedro Pampolini](https://github.com/PedroPampolini)
-- [@Leon Junio Martins Ferreira](https://github.com/GustavGomes)
+- [@Gustavo Gomes](https://github.com/GustavGomes)
 # Descrição
 ## ULA 4 bits (programa montador) + Arduino
 Neste exercício 2 programas vão ser desenvolvidos. Um no hardware externo (Arduino) e outro no PC, que será a interface com o usuário. A ideia é ler um programa escrito pelo usuário, transformá-lo em mnemônicos gerando outro programa e finalmente passá-lo ao Hardware externo através da porta serial e realizar algum processamento nesse Hardware. O resultado será observado nos 4 Leds conectados no Hardware externo.
